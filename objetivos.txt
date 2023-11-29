@@ -1,2 +1,3 @@
 - Aprender css
 - Aprender JS, TypeScript
+- Aprender Angular
